@@ -1,4 +1,4 @@
-# VideoPlay
+# WolfClient/Server
 ##狼人杀游戏平台（C/S）
 
 #项目描述：
@@ -8,7 +8,7 @@
 应用技术：
 客户端：Qt,  TCP/IP,  MD5算法，REGEX正则表达式，Opencv库，Speex库, STL容器，读写配置文件。
 服务端：epoll模型，TCP/IP , MD5算法，Mysql数据库, Redis, 中介者模式，线程池，STL容器，心跳机制。 
-
+#VideoCliend/Server
 #仿优酷播放器 (C/S)   
 ##项目描述：
 该项目基于C/S架构的音视频播放软件,服务端通过用户录制视频并且上传视频获得视频源,用户通过推荐视频在线点播视频,并且能播放本地视频及观看地方台直播。
